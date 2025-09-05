@@ -28,11 +28,6 @@ Também atuo com **N8N, Inteligência Artificial, Low-Code e Lovable**.
 - **Automação & IA:** N8N, Inteligência Artificial, Low-Code, Lovable  
 - **Outros:** TailwindCSS, WooCommerce, WordPress  
 
----
-
-## 🐍 Animação dos Commits
-
-![snake gif](https://github.com/bernardo140109/bernardo140109/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
