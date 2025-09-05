@@ -1,25 +1,31 @@
-### Olá! Me chamo Bernardo 👋
+# 👋 Olá, eu sou o Bernardo!
 
-<div align="center">
-  <a href="https://github.com/bernardo140109">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardo140109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo140109&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/_bernardo_0114/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bernardo140109@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardo-da-silva-80642a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+Sou um jovem desenvolvedor apaixonado por tecnologia, programação e IA.  
+Atualmente aprendendo **JavaScript, Next.js e desenvolvimento SaaS**.
+
+---
+
+## 🌐 Onde me encontrar
+
+[![Instagram](https://img.shields.io/badge/br.nrdo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/br.nrdo)
+[![Discord](https://img.shields.io/badge/swiftzzxk-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/swiftzzxk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardo140109@gmail.com)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardo140109&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo140109&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🚀 Tecnologias que uso
+
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Vite  
+- **Backend:** Node.js, Supabase  
+- **Outros:** TailwindCSS, WooCommerce, WordPress  
+
+---
+
+> _"Transformando ideias em código e código em impacto."_  
