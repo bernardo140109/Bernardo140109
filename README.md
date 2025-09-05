@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Bernardo!
 
 Sou um jovem desenvolvedor apaixonado por tecnologia, programação e IA.  
-Atualmente aprendendo **JavaScript, Next.js e desenvolvimento SaaS**.
+Atualmente aprendendo **JavaScript, Next.js e desenvolvimento SaaS**.  
+Também atuo com **N8N, Inteligência Artificial, Low-Code e Lovable**.
 
 ---
 
@@ -20,11 +21,18 @@ Atualmente aprendendo **JavaScript, Next.js e desenvolvimento SaaS**.
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias e Ferramentas
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js, Vite  
 - **Backend:** Node.js, Supabase  
+- **Automação & IA:** N8N, Inteligência Artificial, Low-Code, Lovable  
 - **Outros:** TailwindCSS, WooCommerce, WordPress  
+
+---
+
+## 🐍 Animação dos Commits
+
+![snake gif](https://github.com/bernardo140109/bernardo140109/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
